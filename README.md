@@ -8,8 +8,8 @@ http://zipcloud.ibsnet.co.jp/doc/api
 
 # 作成経緯
 
-郵便番号を検索するサンプルとして本リポジトリを作成。
-freezedやHTTP通信の参考になれば幸いです。
+郵便番号より住所を検索するサンプルとして本リポジトリを作成。
+freezedやHTTP通信周りの参考になれば幸いです。
 
 Created this repository as a sample to search zip codes in Japan.
 I hope it will be helpful for freezed and HTTP communication.
