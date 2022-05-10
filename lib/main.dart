@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:logger/logger.dart';
-import 'package:zip_code_converter/zip_code_manager.dart';
+import 'package:zip_code_converter/manager/zip_code_manager.dart';
 
 void main() {
   runApp(const MyApp());
